@@ -5,7 +5,7 @@ import Dashboard from './pages/Dashboard'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Patiently">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/dashboard" element={<Dashboard />} />
