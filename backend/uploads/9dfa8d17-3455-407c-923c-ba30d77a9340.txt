@@ -1,0 +1,46 @@
+
+PATIENT LABORATORY REPORT
+Patient: John Doe
+Date: October 5, 2025
+
+COMPLETE BLOOD COUNT (CBC)
+========================================
+WBC (White Blood Cell Count): 12.5 K/uL
+    Reference Range: 4.5-11.0 K/uL
+    Status: HIGH
+
+Hemoglobin: 11.8 g/dL
+    Reference Range: 13.5-17.5 g/dL  
+    Status: LOW
+
+RBC (Red Blood Cell Count): 4.2 M/uL
+    Reference Range: 4.5-5.5 M/uL
+    Status: LOW
+
+Platelets: 180 K/uL
+    Reference Range: 150-400 K/uL
+    Status: NORMAL
+
+METABOLIC PANEL
+========================================
+Glucose (Fasting): 145 mg/dL
+    Reference Range: 70-100 mg/dL
+    Status: HIGH
+
+Creatinine: 1.4 mg/dL
+    Reference Range: 0.6-1.2 mg/dL
+    Status: HIGH
+
+LIPID PANEL
+========================================
+Total Cholesterol: 240 mg/dL
+    Reference Range: <200 mg/dL
+    Status: HIGH
+
+LDL Cholesterol: 160 mg/dL
+    Reference Range: <100 mg/dL
+    Status: HIGH
+
+HDL Cholesterol: 38 mg/dL
+    Reference Range: >40 mg/dL
+    Status: LOW
