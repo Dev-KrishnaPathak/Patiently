@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import './Dashboard.css'
 
-const API_BASE_URL = 'http://localhost:8000/api'
+const API_BASE_URL = 'https://patiently-h7z6.onrender.com/api'
 
 export default function Dashboard() {
   const [isDragging, setIsDragging] = useState(false)
