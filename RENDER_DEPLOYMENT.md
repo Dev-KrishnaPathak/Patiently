@@ -66,7 +66,7 @@ git push origin main
 Name: patiently-backend
 Region: Oregon (or closest to you)
 Branch: main
-Root Directory: backend
+Root Directory: backend          ⚠️ CRITICAL - Must be "backend"
 Runtime: Python 3
 ```
 
